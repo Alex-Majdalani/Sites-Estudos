@@ -59,14 +59,14 @@ section > p {
 }
 
 section.imagem > p {
-  width: 150px;
+  width: 200px;
   padding: 3px;
   background-color: rgba(0, 0, 0, 0.582);
   text-shadow: 2px 2px 0px black;
 }
 
 section#nuvens {
-  background-image: url("../imagens/nuvens.jpg");
+  background-image: url("../imagens/pedra-bau2.jpg");
   background-position: right center;
   background-size: cover;
 }
@@ -80,7 +80,7 @@ section#estrada {
 section#rastro {
   background-image: url("../imagens/noite.jpg");
   background-position: right bottom;
-  background-size: contain;
+  background-size: cover;
 }
 
 section#arvore {
@@ -90,7 +90,7 @@ section#arvore {
 }
 
 section.normal > p {
-  width: 150px;
+  width: 200px;
   padding: 3px;
   background-color: white;
 }
