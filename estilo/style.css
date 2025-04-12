@@ -59,7 +59,7 @@ section > p {
 }
 
 section.imagem > p {
-  width: 400px;
+  width: 300px;
   padding: 2px;
   background-color: rgba(0, 0, 0, 0.582);
   text-shadow: 2px 2px 0px black;
@@ -74,13 +74,13 @@ section#nuvens {
 section#estrada {
   background-image: url("../imagens/estrada.jpg");
   background-position: right center;
-  background-size: cover;
+  background-size: contain;
 }
 
 section#rastro {
   background-image: url("../imagens/noite.jpg");
   background-position: right bottom;
-  background-size: cover;
+  background-size: contain;
 }
 
 section#arvore {
@@ -90,7 +90,7 @@ section#arvore {
 }
 
 section.normal > p {
-  width: 400px;
+  width: 300px;
   padding: 2px;
   background-color: white;
 }
