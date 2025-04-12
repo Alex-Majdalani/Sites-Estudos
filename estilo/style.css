@@ -67,7 +67,7 @@ section.imagem > p {
 
 section#nuvens {
   background-image: url("../imagens/pedra-bau2.jpg");
-  background-position: right center;
+  background-position: left center;
   background-size: cover;
 }
 
@@ -79,7 +79,7 @@ section#estrada {
 
 section#rastro {
   background-image: url("../imagens/noite.jpg");
-  background-position: right bottom;
+  background-position: left bottom;
   background-size: cover;
 }
 
