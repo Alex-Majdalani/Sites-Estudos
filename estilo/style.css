@@ -59,8 +59,8 @@ section > p {
 }
 
 section.imagem > p {
-  width: 300px;
-  padding: 2px;
+  width: 150px;
+  padding: 3px;
   background-color: rgba(0, 0, 0, 0.582);
   text-shadow: 2px 2px 0px black;
 }
@@ -90,8 +90,8 @@ section#arvore {
 }
 
 section.normal > p {
-  width: 300px;
-  padding: 2px;
+  width: 150px;
+  padding: 3px;
   background-color: white;
 }
 
