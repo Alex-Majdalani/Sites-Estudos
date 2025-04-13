@@ -29,7 +29,7 @@ header > h1 {
   padding-top: 50px;
   font-variant: small-caps;
   font-family: var(--font2);
-  font-size: 10vw;
+  font-size: 7vw;
 }
 
 header > p {
@@ -66,8 +66,8 @@ section.imagem > p {
 }
 
 section#nuvens {
-  background-image: url("../imagens/bau.jpg");
-  background-position: left center;
+  background-image: url("../imagens/vale.jpg");
+  background-position: top center;
   background-size: cover;
 }
 
@@ -78,14 +78,14 @@ section#estrada {
 }
 
 section#rastro {
-  background-image: url("../imagens/noite.jpg");
+  background-image: url("../imagens/bau.jpg");
   background-position: left bottom;
   background-size: cover;
 }
 
 section#arvore {
-  background-image: url("../imagens/arvores.jpg");
-  background-position: right center;
+  background-image: url("../imagens/tarde.jpg");
+  background-position: left center;
   background-size: cover;
 }
 
