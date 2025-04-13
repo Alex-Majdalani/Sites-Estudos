@@ -52,6 +52,7 @@ section {
   padding-left: 30px;
   font-family: var(--font3);
   font-size: 3vw;
+  text-align: justify;
 }
 
 section > p {
@@ -59,7 +60,7 @@ section > p {
 }
 
 section.imagem > p {
-  width: 200px;
+  width: 250px;
   padding: 3px;
   background-color: rgba(0, 0, 0, 0.582);
   text-shadow: 2px 2px 0px black;
@@ -90,7 +91,7 @@ section#arvore {
 }
 
 section.normal > p {
-  width: 200px;
+  width: 250px;
   padding: 3px;
   background-color: white;
 }
